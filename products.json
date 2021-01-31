@@ -1,0 +1,99 @@
+[
+   {
+      "id": 1,
+      "name": "The Complete Strapi Course",
+      "content": "The Complete Strapi Course, available on Udemy, coupon in description",
+      "meta_description": "The Complete Strapi Course, the course you should be taking",
+      "meta_title": "The Complete Strapi Course - Entreprenerd Store",
+      "price": 12.99,
+      "slug": "the-complete-strapi-course",
+      "published_at": "2021-01-31T00:14:24.160Z",
+      "created_at": "2021-01-31T00:12:26.195Z",
+      "updated_at": "2021-01-31T00:14:24.211Z",
+      "image": {
+         "id": 1,
+         "name": "strapi-alex.png",
+         "alternativeText": "",
+         "caption": "",
+         "width": 306,
+         "height": 181,
+         "formats": {
+            "thumbnail": {
+               "name": "thumbnail_strapi-alex.png",
+               "hash": "thumbnail_strapi_alex_c015cbf47a",
+               "ext": ".png",
+               "mime": "image/png",
+               "width": 245,
+               "height": 145,
+               "size": 63.67,
+               "path": null,
+               "url": "/uploads/thumbnail_strapi_alex_c015cbf47a.png"
+            }
+         },
+         "hash": "strapi_alex_c015cbf47a",
+         "ext": ".png",
+         "mime": "image/png",
+         "size": 83.92,
+         "url": "/uploads/strapi_alex_c015cbf47a.png",
+         "previewUrl": null,
+         "provider": "local",
+         "provider_metadata": null,
+         "created_at": "2021-01-31T00:09:19.599Z",
+         "updated_at": "2021-01-31T00:09:19.624Z"
+      }
+   },
+   {
+      "id": 2,
+      "name": "The NextJs with Strapi Course",
+      "content": "This is in the works, and may never be released. If you're interested, check the link in description",
+      "meta_description": "The nextjs course description",
+      "meta_title": "The NextJS with Strapi Course - Entreprenerd Store",
+      "price": 497,
+      "slug": "the-next-js-with-strapi-course",
+      "published_at": "2021-01-31T00:19:28.063Z",
+      "created_at": "2021-01-31T00:19:22.767Z",
+      "updated_at": "2021-01-31T00:19:28.098Z",
+      "image": {
+         "id": 2,
+         "name": "strapi-alex2.png",
+         "alternativeText": "",
+         "caption": "",
+         "width": 628,
+         "height": 345,
+         "formats": {
+            "thumbnail": {
+               "name": "thumbnail_strapi-alex2.png",
+               "hash": "thumbnail_strapi_alex2_b71ce9f4d9",
+               "ext": ".png",
+               "mime": "image/png",
+               "width": 245,
+               "height": 135,
+               "size": 46.1,
+               "path": null,
+               "url": "/uploads/thumbnail_strapi_alex2_b71ce9f4d9.png"
+            },
+            "small": {
+               "name": "small_strapi-alex2.png",
+               "hash": "small_strapi_alex2_b71ce9f4d9",
+               "ext": ".png",
+               "mime": "image/png",
+               "width": 500,
+               "height": 275,
+               "size": 153.22,
+               "path": null,
+               "url": "/uploads/small_strapi_alex2_b71ce9f4d9.png"
+            }
+         },
+         "hash": "strapi_alex2_b71ce9f4d9",
+         "ext": ".png",
+         "mime": "image/png",
+         "size": 186.28,
+         "url": "/uploads/strapi_alex2_b71ce9f4d9.png",
+         "previewUrl": null,
+         "provider": "local",
+         "provider_metadata": null,
+         "created_at": "2021-01-31T00:17:02.086Z",
+         "updated_at": "2021-01-31T00:17:02.113Z"
+      }
+   }
+]
